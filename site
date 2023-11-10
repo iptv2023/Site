@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seu Site IPTV - Propriedade de Ducky</title>
+    <style>
+        /* Adicione estilos CSS aqui */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        header, footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+
+        section {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Seu Site IPTV</h1>
+    </header>
+
+    <section>
+        <h2>Proprietário</h2>
+        <p>Este site é de propriedade de Ducky.</p>
+    </section>
+
+    <section>
+        <h2>Lista de Canais</h2>
+        <ul>
+            <li><a href="#">Canal 1</a></li>
+            <li><a href="#">Canal 2</a></li>
+            <!-- Adicione mais canais conforme necessário -->
+        </ul>
+    </section>
+
+    <section>
+        <h2>Tutoriais</h2>
+        <p>Explore nossos tutoriais para configurar e aproveitar o IPTV.</p>
+        <a href="#">Tutorial 1</a>
+        <a href="#">Tutorial 2</a>
+        <!-- Adicione mais tutoriais conforme necessário -->
+    </section>
+
+    <section>
+        <h2>Contato</h2>
+        <p>Para mais informações, entre em contato: <a href="tel:+559193153220">+55 91 93153-220</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Seu Site IPTV. Todos os direitos reservados. | Propriedade de Ducky</p>
+    </footer>
+</body>
+</html>
